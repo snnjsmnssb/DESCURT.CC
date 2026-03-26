@@ -31,6 +31,8 @@
     "m_bSpotted": 8,
     "m_fFlags": 1024,
     "m_entitySpottedState": 5080,
-    "m_pObserverServices": 0x13F0,
+    "m_hObserverTarget": 76,
+    "m_iObserverMode": 72,
+    "m_pObserverServices": 0,
     "m_bSpottedByMask": 12
 }
