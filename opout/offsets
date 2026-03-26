@@ -10,6 +10,7 @@
     "m_bIsDefusing": 9978,
     "m_flC4Blow": 4512,
     "m_flFlashOverlayAlpha": 5612,
+    "m_flFlashDuration": 5624,
     "m_flNextBeep": 4508,
     "m_flTimerLength": 4520,
     "m_hPlayerPawn": 2316,
