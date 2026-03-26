@@ -5,6 +5,7 @@
     "dwLocalPlayer": 33991136,
     "dwPlantedC4": 36801120,
     "dwViewMatrix": 36769552,
+    "dwViewAngles": 36813160,
     "m_ArmorValue": 10028,
     "m_bIsDefusing": 9978,
     "m_flC4Blow": 4512,
