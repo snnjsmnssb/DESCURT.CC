@@ -28,5 +28,6 @@
     "m_modelState": 352,
     "m_bSpotted": 8,
     "m_fFlags": 1024,
-    "m_entitySpottedState": 5080
+    "m_entitySpottedState": 5080,
+    "m_bSpottedByMask": 12
 }
