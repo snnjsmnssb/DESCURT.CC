@@ -41,5 +41,6 @@
     "m_nFallbackSeed": 6228,
     "m_flFallbackWear": 6232,
     "m_iItemIDHigh": 464,
+    "m_pWeaponServices": 5080,
     "m_bSpottedByMask": 12
 }
