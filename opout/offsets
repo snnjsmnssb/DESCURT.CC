@@ -35,5 +35,11 @@
     "m_iObserverMode": 72,
     "m_pObserverServices": 0,
     "m_pObserverServices": 5104,
+    "m_hMyWeapons": 72,
+    "m_iItemDefinitionIndex": 442,
+    "m_nFallbackPaintKit": 6224,
+    "m_nFallbackSeed": 6228,
+    "m_flFallbackWear": 6232,
+    "m_iItemIDHigh": 464,
     "m_bSpottedByMask": 12
 }
